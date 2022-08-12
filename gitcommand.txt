@@ -5,3 +5,4 @@ git rm -cached -r .;
 git reset filename;
 
 hello this is a testing;
+Learing git from stratch 
