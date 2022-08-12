@@ -1,0 +1,7 @@
+git init
+git add ./git add filename.txt/git add -A;
+git rm -cached filename;
+git rm -cached -r .;
+git reset filename;
+
+hello this is a testing;
