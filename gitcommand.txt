@@ -6,4 +6,8 @@ git reset filename;
 
 hello this is a testing;
 
-adding comment using git 
+
+ git - adding comment using git 
+ 
+git hub - Learing git from stratch 
+
